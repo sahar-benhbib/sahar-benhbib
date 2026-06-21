@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github.com" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com" alt="Workspace"  width="40%"/><br> 
+<img src="https://githubusercontent.com" alt="Hello Coders" width="60%"/> <br>
+<img src="https://githubusercontent.com" alt="Workspace"  width="40%"/><br> 
 
 <h3>Hi there, I'm Sahar! 👋</h3>
 <p>Computer Science Student | Software Engineering @ ISIMA</p>
@@ -12,8 +12,7 @@
 
 <hr></hr>
 
-![tools_I_use](https://shields.io)
-![semicolon](https://shields.io)
+### 🚀 Tools I use :
 ![React Native](https://shields.io)
 ![React](https://shields.io)
 ![Django](https://shields.io)
@@ -42,10 +41,10 @@ class DeveloperProfile:
         self.design_tools = ["Figma", "UX/UI Design"]
 ```
 
-- <img alt="GIF" src="https://github.com" width="25" /> &nbsp; I’m currently improving my skills in **Frontend Development and Mobile Engineering**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com" width="20" />&nbsp;&nbsp;&nbsp; Working on **TalentSwipe** (Mobile Recruitment App) & Web applications. <br>
-- <img src="https://github.com" width="25" />&nbsp;&nbsp; Ask me about **UI/UX design, Deep Learning basics, or React Native**. <br>
-- &nbsp;&nbsp;<img src="https://github.com" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love participating in intensive Hackathons! 🚀<br>
+- <img alt="GIF" src="https://githubusercontent.com" width="25" /> &nbsp; I’m currently improving my skills in **Frontend Development and Mobile Engineering**. <img align="right" src="https://githubusercontent.com" alt="Penguin" width="15%" /><br>
+- <img src="https://githubusercontent.com" width="20" />&nbsp;&nbsp;&nbsp; Working on **TalentSwipe** (Mobile Recruitment App) & Web applications. <br>
+- <img src="https://githubusercontent.com" width="25" />&nbsp;&nbsp; Ask me about **UI/UX design, Deep Learning basics, or React Native**. <br>
+- &nbsp;&nbsp;<img src="https://githubusercontent.com" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love participating in intensive Hackathons! 🚀<br>
 
 <div align="center">
 
@@ -53,11 +52,11 @@ class DeveloperProfile:
 
 **Code Cycle**<br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="System Broken!"/>
+<img src="https://githubusercontent.com" width="10%" alt="System Broken!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://githubusercontent.com" width="10%" alt="It works!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works but don't ask why!"/>
+<img src="https://githubusercontent.com" width="10%" alt="It works but don't ask why!"/>
 
 </div>
 
