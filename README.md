@@ -33,6 +33,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![TinyDB](https://img.shields.io/badge/TinyDB-FFC107?style=flat&logoColor=black)
 
 ```python
 # My organized skill profile
@@ -42,7 +43,7 @@ class DeveloperProfile:
         self.name = "Sahar"
         self.role = "Software Engineering Student @ ISIMA"
         self.backend = ["Python", "Flask", "Django", "Spring Boot", "PHP"]
-        self.databases = ["MySQL", "MongoDB"]
+        self.databases = ["MySQL", "MongoDB", "TinyDB"]
         self.frontend_mobile = ["React Native", "React", "JavaScript", "HTML", "CSS"]
         self.devops = ["Docker", "Docker Compose", "Git", "Raspberry Pi"]
         self.other_languages = ["Java", "C"]
