@@ -34,6 +34,16 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![TinyDB](https://img.shields.io/badge/TinyDB-FFC107?style=flat&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat&logo=gnubash&logoColor=white)
+![Virtual Machines](https://img.shields.io/badge/Virtual_Machines-607078?style=flat&logo=virtualbox&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudioide&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ```python
 # My organized skill profile
@@ -45,9 +55,13 @@ class DeveloperProfile:
         self.backend = ["Python", "Flask", "Django", "Spring Boot", "PHP"]
         self.databases = ["MySQL", "MongoDB", "TinyDB"]
         self.frontend_mobile = ["React Native", "React", "JavaScript", "HTML", "CSS"]
-        self.devops = ["Docker", "Docker Compose", "Git", "Raspberry Pi"]
+        self.devops = ["Docker", "Docker Compose", "Git", "SSH", "Raspberry Pi"]
         self.other_languages = ["Java", "C"]
         self.design_tools = ["Figma", "UX/UI Design"]
+        self.systems_network = ["Ubuntu", "Virtual Machines", "Wireshark"]
+        self.data = ["R", "RStudio", "Pandas"]
+        self.ides = ["VS Code", "Visual Studio", "Eclipse", "Notepad++"]
+
 ```
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently improving my skills in **Full-Stack Development, Mobile Engineering and IoT security**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
