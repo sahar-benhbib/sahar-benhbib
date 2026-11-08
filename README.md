@@ -60,7 +60,7 @@ class DeveloperProfile:
         self.design_tools = ["Figma", "UX/UI Design"]
         self.systems_network = ["Ubuntu", "Virtual Machines", "Wireshark"]
         self.data = ["R", "RStudio", "Pandas"]
-        self.ides = ["VS Code", "Visual Studio", "Eclipse", "Notepad++"]
+        self.ides = [ "Visual Studio", "Eclipse", "Notepad++"]
 
 ```
 
