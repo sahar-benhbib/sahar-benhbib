@@ -42,7 +42,6 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudioide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ```python
